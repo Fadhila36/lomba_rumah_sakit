@@ -126,9 +126,9 @@
     </div>
     <div class="col-sm-4 text-center">
       <h2>Kontak</h2>
-      <p class="text-center bawah">Jalan Kaliurang KM 14,5, Umbulmartani, Ngemplak, Umbulmartani, Ngemplak, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55584.</p>
-      <p class="text-center bawah">Telp (0274) 868584</p>
-      <p class="text-center bawah">WeDoct.com</p>
+      <p class="text-center bawah">Jalan Ronggo Waluyo Sirnabaya, Puseurjaya, Kec. Telukjambe Tim., Kabupaten Karawang, Jawa Barat 41361.</p>
+      <p class="text-center bawah">Telp 085311149860</p>
+      <p class="text-center bawah">EPusKesMas.com</p>
     </div>
   </div>
 </section>

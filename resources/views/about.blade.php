@@ -12,8 +12,8 @@
       <h1>Tentang</h1>
       <p> WeDoct adalah sebuah sistem informasi yang didesain untuk mempermudah pasien dalam hal booking dokter. Sistem ini didesain untuk mengatasi masalah pasien dalam hal mengantri ketika hendak melakukan check-up atau control kesehatan dengan dokter. Selain itu, benefit yang ditawarkan oleh situs ini adalah sebagai berikut :</p>
       <ol>
-        <li>Mencakup wilayah DI Yogyakarta</li>
-        <li>Tempat control dari berbagai klinik / rumah sakit / puskesmas</li>
+        <li>Mencakup wilayah Karawang</li>
+        <li>Tempat kontrol dari berbagai klinik / rumah sakit / puskesmas</li>
         <li>Dokter - dokter yang memiliki sertifikat</li>
         <li>Terintegrasi dengan Google Maps</li>
         <li>Terdapat berbagai pilihan dokter, dengan beragam spesialisasi</li>

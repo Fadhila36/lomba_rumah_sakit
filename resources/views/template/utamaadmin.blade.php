@@ -31,7 +31,7 @@
     <section class="container-fluid footer-copyright">
       <div class="row">
         <div class="col-sm-12 text-center copyright-footer">
-          <h3>Copyright &copy; : Symphony Companny, 2017. INDONESIA</h3>
+          <h3>Copyright &copy; : Pusdatin Team, 2021. INDONESIA</h3>
         </div>
       </div>
     </section>
